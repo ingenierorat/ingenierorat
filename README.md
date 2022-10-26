@@ -1,6 +1,19 @@
 ### Hola, Soy Rafael Torres👋
 
-![](https://www.google.com/search?q=mango&rlz=1C1CHBD_esDO985DO985&sxsrf=ALiCzsZLkJFfBGrRnRAIAJwsjLZifi1aYA:1666800426992&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrzvK6o_76AhWbZDABHb4NAuQQ_AUoAXoECAIQAw&biw=1920&bih=969&dpr=1#imgrc=1-wEslCr-8F5NM)
+
+[![me](https://photos.google.com/photo/AF1QipMg6eFXtefRd2WWrXfFfN_IvmsRK5ppptK-WRA0)
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
 
 
 <!--
