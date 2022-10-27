@@ -1,6 +1,4 @@
-### Hola, Soy Rafael Torres👋
-
-
+### Hi I'm Rafael Torres👋
 
 
 
