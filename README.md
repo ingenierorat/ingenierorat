@@ -1,19 +1,9 @@
 ### Hola, Soy Rafael Torres👋
 
 
-[![me](https://photos.google.com/photo/AF1QipMg6eFXtefRd2WWrXfFfN_IvmsRK5ppptK-WRA0)
-###FlowChart
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+
 
 
 <!--
