@@ -1,4 +1,4 @@
-### MESSAGE 'Hi I'm Rafael Torres' TYPE A.
+### MESSAGE 'Hi I'm Rafael Torres' TYPE A. :mens:
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -7,6 +7,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 - [x] #739
 - [x] https://github.com/octo-org/octo-repo/issues/740
+
+:laughing:
 
 
 
