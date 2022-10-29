@@ -3,6 +3,18 @@
 
 ![This is an image](https://i.ibb.co/XYvJvdS/Portada-para-Github.png)
 
+DATA: opt TYPE string.
+
+CASE opt.
+  WHEN 'C#'.
+    WRITE / 'I like that'.
+  WHEN 'CANCEL'.
+    LEAVE SCREEN.
+  WHEN 'EXIT'.
+    LEAVE PROGRAM.
+  WHEN OTHERS.
+    MESSAGE '...' TYPE 'E'.
+
 
 
 
