@@ -1,9 +1,21 @@
 ### MESSAGE 'Hi I'm Rafael Torres' TYPE A. :mens:
 
-
 ![This is an image](https://i.ibb.co/XYvJvdS/Portada-para-Github.png)
 
-#### Right now my favorite hobby is creating both Android and Desktop apps. Knowledge in the following technologies; PHP, MySQL, CSS3, HTML5, C#, ABAP, JavaScript
+#### Right now my favorite hobby is creating both Android and Desktop apps. Knowledge in the following technologies:eye_speech_bubble:
+
+- [x] PHP :book: 
+- [X] MySQL :book: 
+- [x] CSS3 :book: 
+- [X] HTML5 :book: 
+- [X] C# :book: 
+- [X] ABAP :book: 
+- [X] JavaScript :book: 
+
+
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 
