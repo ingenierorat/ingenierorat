@@ -2,7 +2,7 @@
 
 ![This is an image](https://i.ibb.co/XYvJvdS/Portada-para-Github.png)
 
-#### Right now my favorite hobby is creating both Android and Desktop apps. Knowledge in the following technologies:eye_speech_bubble:
+#### Right now my favorite hobby is creating both Android and Desktop apps. Knowledge of the following technologies. Below I list the technology used in this regard.
 
 - [x] PHP :book: 
 - [X] MySQL :book: 
