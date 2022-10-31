@@ -12,7 +12,7 @@
 - [X] ABAP :book: 
 - [X] JavaScript :book: 
 
-### ¡About Me!
+### ¡About Me! :trophy:
 
 - [YouTube]().
 
