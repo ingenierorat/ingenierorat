@@ -1,4 +1,4 @@
-### MESSAGE 'Hi I'm Rafael Torres' TYPE A. :mens:
+### MESSAGE 'Hi I'm Rafael Torres' TYPE A. :beginner: 
 
 ![This is an image](https://i.ibb.co/XYvJvdS/Portada-para-Github.png)
 
