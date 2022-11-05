@@ -1,6 +1,6 @@
 ### MESSAGE 'Hi I'm Rafael Torres' TYPE A. :beginner: 
 
-![This is an image](https://i.ibb.co/XYvJvdS/Portada-para-Github.png)
+![This is an image](https://i.ibb.co/BfxY6bD/Portada-para-Github-1920-480-px.png)
 
 #### Right now my favorite hobby is creating both Android and Desktop Apps. Knowledge of the following technologies. Below I list the technology used in this regard.
 
@@ -15,10 +15,6 @@
 ### ¡About Me! :trophy: :point_down: 
 
 :red_circle: [YouTube](https://www.youtube.com/@ingenierorat).
-
-
-
-
 
 
 <!--
