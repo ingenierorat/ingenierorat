@@ -10,7 +10,8 @@
 - [X] HTML5 :book: 
 - [X] C# :book: 
 - [X] ABAP :book: 
-- [X] JavaScript :book: 
+- [X] JavaScript :book:
+- [X] Ajax :book: 
 
 ### ¡About Me! :trophy: :point_down: 
 
